@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="444d2f8f-1378-453d-94dc-6ee9fca81a2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-    </list>
+    <list default="true" id="444d2f8f-1378-453d-94dc-6ee9fca81a2d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -232,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580958841031</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="PageObjectModel class">
+      <created>1581192174312</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581192174313</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -281,6 +288,14 @@
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="674" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.958@0.23.1680.958" timestamp="1581182771124" />
+    <state x="471" y="106" key="CommitChangelistDialog2" timestamp="1581192174168">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="471" y="106" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1581192174168" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1581192185967">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1581192185967" />
     <state x="525" y="301" key="git4idea.merge.GitPullDialog" timestamp="1581186874083">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
